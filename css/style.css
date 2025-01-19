@@ -98,3 +98,30 @@ ul li a {
 	font-size: 18px;
 	color: #757575;
 }
+
+/* About Me Section Style */
+
+.about-section {
+	max-width: 1140px;
+	margin: 40px auto;
+	background-color: #fff8f3;
+	padding: 130px 150px;
+	border-radius: 10px;
+}
+.about-description {
+	color: #757575;
+}
+
+.about-content {
+	max-width: 827px;
+	background: #ffffff;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;
+	border: 2px solid #181818;
+}
+.personal-information {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
