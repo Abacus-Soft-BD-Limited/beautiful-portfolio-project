@@ -97,6 +97,10 @@ ul li a {
 	background-position: top left, bottom right;
 }
 
+.hero-image {
+	width: 100%;
+	height: auto;
+}
 .hero-content {
 	max-width: 545px;
 }
@@ -246,3 +250,5 @@ input[type='email'] {
 	border-radius: 4px;
 	box-sizing: border-box;
 }
+
+/* Portfolio Website Responsive */
